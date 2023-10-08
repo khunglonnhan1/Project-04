@@ -1264,6 +1264,11 @@ a {
   box-shadow: 0 15px 28px -7px #ff5b2e4d;
 }
 
+.footer-form__btn:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
 .footer-left__follow {
   display: inline-block;
   color: #000958;
